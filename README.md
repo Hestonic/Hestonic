@@ -2,8 +2,9 @@
 
 ### About me
 
-I am a beginner android developer. 
-my hobby is playing the guitar
+- I am a beginner android developer. 
+- English level: B1 Intermediate
+- My hobby is playing the guitar
 
 ### Languages and Tools
 
