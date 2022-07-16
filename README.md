@@ -1,4 +1,4 @@
-![[Header](https://github.com/Hestonic/Hestonic/blob/main/assets/neon-grid.jpg)](https://t.me/Hestonic)
+[![Header](https://github.com/Hestonic/Hestonic/blob/main/assets/neon-grid.jpg)](https://t.me/Hestonic)
 
 About me
 
