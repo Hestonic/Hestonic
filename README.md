@@ -1,7 +1,7 @@
 [![Header](https://github.com/Hestonic/Hestonic/blob/main/assets/neon-grid.jpg)](https://t.me/Hestonic)
 
-About me
+## I am a beginner android developer
 
 Languages and Tools
 
-Contact with me
+Contact with me 
