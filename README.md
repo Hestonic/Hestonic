@@ -17,7 +17,7 @@ my hobby is playing the guitar
 
 ### Contact with me
 
-[![Kotlin](https://img.shields.io/badge/VKontakte-000000?style=for-the-badge&logo=vk)](https://t.me/Hestonic)
-[![Kotlin](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://vk.com/hestonic)
+[![Kotlin](https://img.shields.io/badge/VKontakte-000000?style=for-the-badge&logo=vk)](https://vk.com/hestonic)
+[![Kotlin](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Hestonic)
 
 
