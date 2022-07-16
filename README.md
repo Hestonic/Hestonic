@@ -2,11 +2,17 @@
 
 ## I am a beginner android developer
 
-##Languages and Tools
+## Languages and Tools
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin)
 ![Kotlin](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
 
 
-Contact with me 
+### Contact with me
+
+![Kotlin](https://img.shields.io/badge/VKontakte-000000?style=for-the-badge&logo=vk)
+![Kotlin](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram) 
+
+
