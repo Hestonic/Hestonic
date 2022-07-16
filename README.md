@@ -11,6 +11,8 @@ my hobby is playing the guitar
 ![Kotlin](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
+![Kotlin](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
+![Kotlin](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
 
 
 ### Contact with me
