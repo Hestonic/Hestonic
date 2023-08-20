@@ -2,8 +2,12 @@
 
 ### About me
 
-- I am a beginner android developer. 
-- English level: B1 Intermediate
+- Development of mobile applications for Android 
+- Multi-platform development for Android and IOS 
+- Knowledge of popular and advanced development technologies 
+- Ability to quickly learn new technologies, tools and apply them in practice 
+- Ability to optimize application performance 
+- Ability to work effectively in a team and mentor new developers
 - My hobby is playing the guitar
 
 ### Languages and Tools
