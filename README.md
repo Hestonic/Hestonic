@@ -22,7 +22,6 @@
 
 ### Contact with me
 
-[![VKontakte](https://img.shields.io/badge/VKontakte-000000?style=for-the-badge&logo=vk)](https://vk.com/hestonic)
+[![LinkedIn](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniil-timofeev-aa3280213/)
+[![WhatsApp](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=whatsapp)](https://wa.me/79262729205)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Hestonic)
-
-
