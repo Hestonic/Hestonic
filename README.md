@@ -7,22 +7,22 @@
 - Knowledge of popular and advanced development technologies 
 - Ability to quickly learn new technologies, tools and apply them in practice 
 - Ability to optimize application performance 
-- Ability to work effectively in a team and mentor new developers
+- Ability to work effectively in a team and mentor junior developers
 - My hobby is playing the guitar
 
 ### Languages and Tools
 
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin)
-![Kotlin](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
-![Kotlin](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
-![Kotlin](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
-
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
+![Jetpack](https://img.shields.io/badge/Jetpack_Tools-000000?style=for-the-badge&logo=jetpack-compose)
+![Material Design](https://img.shields.io/badge/Material_Design-000000?style=for-the-badge&logo=material-design)
+![Google Maps](https://img.shields.io/badge/Google_Maps-000000?style=for-the-badge&logo=google-maps)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
 
 ### Contact with me
 
-[![Kotlin](https://img.shields.io/badge/VKontakte-000000?style=for-the-badge&logo=vk)](https://vk.com/hestonic)
-[![Kotlin](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Hestonic)
+[![VKontakte](https://img.shields.io/badge/VKontakte-000000?style=for-the-badge&logo=vk)](https://vk.com/hestonic)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Hestonic)
 
 
