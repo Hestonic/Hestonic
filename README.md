@@ -12,9 +12,9 @@
 
 ### Languages and Tools
 
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
 ![Jetpack](https://img.shields.io/badge/Jetpack_Tools-000000?style=for-the-badge&logo=jetpack-compose)
 ![Material Design](https://img.shields.io/badge/Material_Design-000000?style=for-the-badge&logo=material-design)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-000000?style=for-the-badge&logo=google-maps)
@@ -22,6 +22,6 @@
 
 ### Contact with me
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniil-timofeev-aa3280213/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/timofeev-android-dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp)](https://wa.me/79262729205)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Hestonic)
